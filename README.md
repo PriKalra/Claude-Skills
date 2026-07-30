@@ -14,8 +14,8 @@ Each directory is a self-contained skill with YAML frontmatter in its `SKILL.md`
 Claude Code, copy the ones you want into your skills directory:
 
 ```bash
-git clone https://github.com/PriKalra/Claude-Skills.git
-cp -r Claude-Skills/model-build-workflow ~/.claude/skills/
+git clone https://github.com/PriKalra/Claude-Modelling-Scientific-Skills.git
+cp -r Claude-Modelling-Scientific-Skills/model-build-workflow ~/.claude/skills/
 ```
 
 Or copy the whole set:

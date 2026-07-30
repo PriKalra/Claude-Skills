@@ -212,10 +212,7 @@ for anything you intend to cite.
   drugs and populations rather than for novelty in any single paper.
 - **The M15 skill has no evidence log**, unlike the nine PBPK skills. Its single source is the
   guideline text itself.
-- **The M15 skill's routing table references sibling skills that are not published here**
-  (`midd-product-manager`, `qsp-thales-project-orchestrator`, `systems-pharmacology-scientist`).
-  Those rows tell you when M15 assessment is the *wrong* frame; they do not need the named skill to
-  be installed to be useful.
+
 
 ## Note on the paediatric retrofit
 

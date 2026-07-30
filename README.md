@@ -162,11 +162,7 @@ never asserts that a regulator will accept an analysis.
 
 ## Provenance and caveats
 
-**The original four skills** (DDI, IVIVE, renal impairment, paediatric scaling) were built from two
-source bodies: the OSP-based publications and content issue register on GitHub
-(`Open-Systems-Pharmacology/OSP-based-publications-and-content`), where each issue carries a
-publication abstract, filtered to the DDI, IVIVE, Renal impairment and Pediatrics labels; and
-Certara publications, posters and blog resources on the same four topics.
+**The original four skills** (DDI, IVIVE, renal impairment, paediatric scaling) were built from publication sourcebodies
 
 **The five added skills** were each built from named primary literature, cited in full in their
 evidence logs:
